@@ -12,6 +12,11 @@ int b = 4;
 System.out.println(a+b);
 
 System.out.println("hi Deok hwan");
+
+
+System.out.println("2nd java upload go~!!");
+
+
 	}
 
 
